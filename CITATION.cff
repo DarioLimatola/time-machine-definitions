@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Mathematical Definitions of Time Machines: A Multidomain Survey"
+authors:
+  - family-names: Limatola
+    given-names: Dario
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # Optional, update if available
+date-released: 2025-04-01
+version: 1.0
+doi: "10.5281/zenodo.placeholder"  # Replace with actual Zenodo DOI when available
+license: "CC-BY-4.0"
+url: "https://github.com/yourusername/time-machine-definitions"
+type: paper
