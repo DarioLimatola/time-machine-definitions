@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Time Machine Definitions
 
 **Mathematical Definitions of Time Machines: A Multidomain Survey**  
@@ -37,3 +38,7 @@ Limatola, Dario. *Mathematical Definitions of Time Machines: A Multidomain Surve
 
 ## 📌 License
 Released under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
+=======
+# time-machine-definitions
+A formal mathematical model of time machines
+>>>>>>> f6139bc2ceea358c58f7926104a3ac91ed54f05e
